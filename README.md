@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Click Here!](https://your-solution-url.com)
+- Solution URL: [Click Here!](https://chirag-bishnoi.github.io/huddle-loading-page/)
 
 
 ### Built with
